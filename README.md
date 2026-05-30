@@ -1,3 +1,7 @@
+# INTEGRANTES
+- Diva Catalina Rodriguez Acosta
+- Juan Sebastian Muñoz Molina
+
 # Proyecto de Juego de Laberinto
 
 ## Descripción General
